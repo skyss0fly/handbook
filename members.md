@@ -21,7 +21,7 @@ All root users have the root role on Discord, which grants "Administrator" right
   * Is an owner of @Pryaxis on GitHub.
   * Is the Discord owner for TShock.
   * Is not available on Discord.
-* @QuiCM (Discord: Cold#7366)
+* @QuiCM (Discord: notadropbear)
   * Is an owner of @Pryaxis on GitHub.
   * Has Twitter access.
 * @Ijwu (Discord: Ijwu#7209)
